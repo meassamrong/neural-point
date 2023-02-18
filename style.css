@@ -1,0 +1,16 @@
+.point {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rebeccapurple;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+.point1 {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rgb(255, 210, 30);
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
